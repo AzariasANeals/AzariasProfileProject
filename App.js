@@ -1,10 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image, ScrollView, TextInput } from 'react-native';
-
+// Hello 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.titleText}>This is Azarias' Profile page!</Text>
+      
       <StatusBar style="auto" />
     </View>
   );
